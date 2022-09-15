@@ -5,7 +5,7 @@
 ![Logo do RedStarOS](/RedStarOS_logo.jpg)
 
 ## Introdução
-O RedStarOS é um sistema operacional baseado em Linux, criado e mantido pela KCC - Korea Computer Center, está atualmente na sua versão 4 (Server e Desktop) e é baseado no Fedora. Ele também é distribuído na versão Mobile, baseado no Android.
+O RedStarOS é uma distribuição GNU/Linux, ou seja, uma distribuição do sistema operacional GNU com kernel Linux. Ele foi criado e é mantido pela KCC - Korea Computer Center, está atualmente na sua versão 4 (Server e Desktop) e é baseado no Fedora. Ele mais recentimente foi criada a versão Mobile, baseado no sistema operacional Android com kernel Linux.
 
 ## Utilização
 O RedStarOS 4.0 Server atualmente é utilizado nos servidores em geral na Coreia Popular, como pode ser visto, por exemplo, neste link: <http://pyongyangtimes.com.kp/404>
